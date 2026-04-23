@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+__pycache__/
+*.pkl
+*.pickle
+.ipynb_checkpoints/
+.env
+.venv
+venv/
+*.html
+*.drawio
+.claude/
